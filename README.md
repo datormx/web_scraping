@@ -1,10 +1,10 @@
-# Web Scrapper Elemental 📥
-Un web scrapper elemental desarrollado con Python utilizando las librerías Requests y Beautifulsoup+ durante las clases del [Curso de Python de Platzi](http://platzi.com/python "Curso de Python de Platzi").
+# Web Scraper Elemental 📥
+Un web scraper elemental desarrollado con Python utilizando las librerías Requests y Beautifulsoup+ durante las clases del [Curso de Python de Platzi](http://platzi.com/python "Curso de Python de Platzi").
 
-El scrapper descarga imágenes (comics) del website https://xkcd.com/ 
+El scraper descarga imágenes (comics) del website https://xkcd.com/ 
 
 
-## Para correr el scrapper sigue estos pasos:
+## Para correr el scraper sigue estos pasos:
 
 1. Asegurate de tener Python3 instalado.
 2. Clona el repositorio.
@@ -14,6 +14,7 @@ El scrapper descarga imágenes (comics) del website https://xkcd.com/
 
 *Las librerías Request y Beautifulsoup ya se encuentran en los archivos del proyecto. Fueron subidas para poder correr el proyecto más rápidamente y porque no representan mucho peso. 
 
-##¿Cómo descargar más cantidad de imágenes?
+
+## ¿Cómo descargar más cantidad de imágenes?
 
 Las imágenes en url están numeradas, para decargar más imágenes o imágenes de tal número a tal número modificar el range del ciclo for al inicio de la función run().
